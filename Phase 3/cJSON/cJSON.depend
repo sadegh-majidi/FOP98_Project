@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580728716 source:c:\users\sadegh majidi\c projects\cjson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
